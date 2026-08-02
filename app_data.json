@@ -55,7 +55,6 @@
         "categories/one_piece/3.jpg",
         "categories/one_piece/4.jpg",
         "categories/one_piece/5.jpg"
-        
       ]
     },
     {
@@ -71,7 +70,7 @@
         "categories/naruto/5.jpg",
         "categories/naruto/6.jpg",
         "categories/naruto/7.jpg",
-        "categories/naruto/8.jpg",
+        "categories/naruto/8.jpg"
       ]
     },
     {
@@ -80,7 +79,7 @@
       "cover": "categories/3.jpg",
       "color": "#FF5722",
       "wallpapers": [
-         "categories/naruto_baryon/1.jpg",
+        "categories/naruto_baryon/1.jpg",
         "categories/naruto_baryon/2.jpg",
         "categories/naruto_baryon/3.jpg",
         "categories/naruto_baryon/4.jpg",
