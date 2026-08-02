@@ -1,0 +1,23 @@
+{
+  "trending_wallpapers": [
+    "home/1.jpg",
+    "home/2.jpg"
+  ],
+  "categories": [
+    {
+      "id": "one_piece",
+      "title": "One Piece",
+      "cover": "categories/1.jpg",
+      "color": "#4CAF50",
+      "wallpapers": [
+        "home/9.jpg",
+        "home/10.jpg"
+      ]
+    }
+  ],
+  "keyboards": [
+    "keyboards/1.jpg",
+    "keyboards/2.jpg",
+    "keyboards/3.jpg"
+  ]
+}
