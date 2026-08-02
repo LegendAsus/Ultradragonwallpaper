@@ -50,11 +50,11 @@
       "cover": "categories/1.jpg",
       "color": "#4CAF50",
       "wallpapers": [
-        "one_piece/1.jpg",
-        "one_piece/2.jpg",
-        "one_piece/3.jpg",
-        "one_piece/4.jpg",
-        "one_piece/5.jpg"
+        "categories/one_piece/1.jpg",
+        "categories/one_piece/2.jpg",
+        "categories/one_piece/3.jpg",
+        "categories/one_piece/4.jpg",
+        "categories/one_piece/5.jpg"
         
       ]
     },
