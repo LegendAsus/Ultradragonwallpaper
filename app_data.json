@@ -1,7 +1,47 @@
 {
   "trending_wallpapers": [
     "home/1.jpg",
-    "home/2.jpg"
+    "home/2.jpg",
+    "home/3.jpg",
+    "home/4.jpg",
+    "home/5.jpg",
+    "home/6.jpg",
+    "home/7.jpg",
+    "home/8.jpg",
+    "home/9.jpg",
+    "home/10.jpg",
+    "home/11.jpg",
+    "home/12.jpg",
+    "home/13.jpg",
+    "home/14.jpg",
+    "home/15.jpg",
+    "home/16.jpg",
+    "home/17.jpg",
+    "home/18.jpg",
+    "home/19.jpg",
+    "home/20.jpg",
+    "home/21.jpg",
+    "home/22.jpg",
+    "home/23.jpg",
+    "home/24.jpg",
+    "home/25.jpg",
+    "home/26.jpg",
+    "home/27.jpg",
+    "home/28.jpg",
+    "home/29.png",
+    "home/30.jpg",
+    "home/31.jpg",
+    "home/32.jpg"
+  ],
+  "live_wallpapers": [
+    {
+      "video": "live_wallpapers/1.mp4",
+      "thumbnail": "live_wallpapers/1.jpg"
+    },
+    {
+      "video": "live_wallpapers/2.mp4",
+      "thumbnail": "live_wallpapers/2.jpg"
+    }
   ],
   "categories": [
     {
@@ -11,13 +51,104 @@
       "color": "#4CAF50",
       "wallpapers": [
         "home/9.jpg",
-        "home/10.jpg"
+        "home/10.jpg",
+        "home/11.jpg",
+        "home/12.jpg",
+        "home/13.jpg",
+        "home/14.jpg"
+      ]
+    },
+    {
+      "id": "naruto",
+      "title": "Naruto Shippuden",
+      "cover": "categories/2.jpg",
+      "color": "#FF9800",
+      "wallpapers": [
+        "home/15.jpg",
+        "home/16.jpg",
+        "home/17.jpg",
+        "home/18.jpg",
+        "home/19.jpg",
+        "home/20.jpg"
+      ]
+    },
+    {
+      "id": "naruto_baryon",
+      "title": "Naruto Baryon Mode",
+      "cover": "categories/3.jpg",
+      "color": "#FF5722",
+      "wallpapers": [
+        "home/21.jpg",
+        "home/22.jpg",
+        "home/23.jpg",
+        "home/24.jpg"
+      ]
+    },
+    {
+      "id": "jujutsu_kaisen",
+      "title": "Jujutsu Kaisen",
+      "cover": "categories/4.jpg",
+      "color": "#9C27B0",
+      "wallpapers": [
+        "home/25.jpg",
+        "home/26.jpg",
+        "home/27.jpg",
+        "home/28.jpg"
+      ]
+    },
+    {
+      "id": "demon_slayer",
+      "title": "Demon Slayer",
+      "cover": "categories/5.jpg",
+      "color": "#E91E63",
+      "wallpapers": [
+        "home/29.png",
+        "home/30.jpg",
+        "home/31.jpg",
+        "home/32.jpg"
       ]
     }
   ],
   "keyboards": [
     "keyboards/1.jpg",
     "keyboards/2.jpg",
-    "keyboards/3.jpg"
-  ]
+    "keyboards/3.jpg",
+    "keyboards/4.jpg",
+    "keyboards/5.jpg",
+    "keyboards/6.jpg",
+    "keyboards/7.jpg",
+    "keyboards/8.jpg",
+    "keyboards/9.jpg",
+    "keyboards/10.jpg",
+    "keyboards/11.jpg",
+    "keyboards/12.jpg",
+    "keyboards/13.jpg",
+    "keyboards/14.jpg",
+    "keyboards/15.jpg",
+    "keyboards/16.jpg",
+    "keyboards/17.jpg"
+  ],
+  "widgets": {
+    "calendar": [
+      "widgets/1.jpg",
+      "widgets/2.png",
+      "widgets/3.jpeg",
+      "widgets/4.jpg",
+      "widgets/5.png"
+    ],
+    "clock": [
+      "widgets/1.jpg",
+      "widgets/2.png",
+      "widgets/3.jpeg",
+      "widgets/4.jpg",
+      "widgets/5.png"
+    ],
+    "digital_clock": [
+      "widgets/1.jpg",
+      "widgets/2.png",
+      "widgets/3.jpeg",
+      "widgets/4.jpg",
+      "widgets/5.png"
+    ]
+  }
 }
