@@ -64,12 +64,14 @@
       "cover": "categories/2.jpg",
       "color": "#FF9800",
       "wallpapers": [
-        "home/15.jpg",
-        "home/16.jpg",
-        "home/17.jpg",
-        "home/18.jpg",
-        "home/19.jpg",
-        "home/20.jpg"
+        "categories/naruto/1.jpg",
+        "categories/naruto/2.jpg",
+        "categories/naruto/3.jpg",
+        "categories/naruto/4.jpg",
+        "categories/naruto/5.jpg",
+        "categories/naruto/6.jpg",
+        "categories/naruto/7.jpg",
+        "categories/naruto/8.jpg",
       ]
     },
     {
