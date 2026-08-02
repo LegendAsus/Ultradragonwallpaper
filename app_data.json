@@ -107,10 +107,12 @@
       "cover": "categories/5.jpg",
       "color": "#E91E63",
       "wallpapers": [
-        "home/29.png",
-        "home/30.jpg",
-        "home/31.jpg",
-        "home/32.jpg"
+        "categories/demon_slayer/1.jpg",
+        "categories/demon_slayer/2.jpg",
+        "categories/demon_slayer/3.jpg",
+        "categories/demon_slayer/4.jpg",
+        "categories/demon_slayer/5.jpg",
+        "categories/demon_slayer/6.jpg"
       ]
     }
   ],
